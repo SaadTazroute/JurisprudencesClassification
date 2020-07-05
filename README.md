@@ -1,12 +1,12 @@
 ## Jurisprudences Classification
 
-Ce projet consiste à réaliser une classification des décisions de la cour de cassation française réalisé dans le cadre d'un stage de recherche.
+This project consists in carrying out a classification of the decisions of the French Court of Cassation carried out within the framework of a research internship.
 
 
 Vous trouvez 4 notebooks dans ce repo:
 	
-	00 : Création du fichier qui regroupe toute les jurisprudences.
+	00 : Creation of the file which gathers all the cases.
 	01 : Deep Analysis of the french Cass Dataset
-	02 : Classificateur : TF-IDF + ML Algorithms
-	03 : Classificateur : CamemBERTforSequenceClassification
+	02 : Classifier : TF-IDF + ML Algorithms
+	03 : Classifier : CamemBERTforSequenceClassification
 	
