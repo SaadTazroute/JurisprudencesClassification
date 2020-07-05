@@ -2,7 +2,7 @@
 
 This project consists in carrying out a classification of the decisions of the French Court of Cassation carried out within the framework of a research internship.
 
-The data used is available in this link  : [link to Google!](http://google.com)
+The data used is available in this link  : [LegiFrance](https://echanges.dila.gouv.fr/OPENDATA/CASS/)
 
 
 The Colab link on the top of each notebook.
