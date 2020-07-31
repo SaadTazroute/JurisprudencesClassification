@@ -1,8 +1,8 @@
-#### Jurisprudences Classification
+## Jurisprudences Classification
 
 This project consists in carrying out a classification of the decisions of the French Court of Cassation carried out within the framework of a research internship,  you'll also find the paper I was able to write during this period of confinement and internship.
 
-## Abstract
+#### Abstract
 
 
 In this article, we examine the application of text classification approaches to assist
