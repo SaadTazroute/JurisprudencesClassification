@@ -48,8 +48,9 @@ How to use it  :
 
 Let's consider a data set D containing sequences of text samples : 
 
+<img src="https://render.githubusercontent.com/render/math?math= D = D_1,D_2 , \dots, D_N ">
 
-$$  D = D_1,D_2 , \dots, D_N  $$
+
 
 We consider also a set of labels denoted as: 
 
